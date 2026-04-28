@@ -179,8 +179,8 @@ FairLens is designed for:
 | Name | Role |
 |---|---|
 | [Mahima Gupta] | Full Stack + Fairness Engine |
-| [Shreya Yadav] | UI/UX design and prototype 
-|[Zara Alam]| |Data Science+XAI Visualization |
+| [Shreya Yadav] | UI/UX design and prototype |
+|[Zara Alam]| | Data Science+XAI Visualization |
 
 ---
 
